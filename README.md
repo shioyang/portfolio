@@ -1,1 +1,1 @@
-# portfolio## D3.js### Ripple Effecthttps://embed.plnkr.co/BXVPgw/
+# portfolio## D3.js### Ripple Effect from Centorhttps://embed.plnkr.co/BXVPgw/### Ripple Effect from Circumferencehttps://embed.plnkr.co/AeHNJd/
